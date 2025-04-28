@@ -17,13 +17,14 @@ This is an intermediate-level SQL-only project designed to simulate a public lib
 - Members with highest fines
 - Most active members
 - Overdue book tracking 
+- Overdue Fine Calculation
 - Book popularity ranking (via window function)
 
 ## 📁 Files Included
 
+- `analsing_db.ipynb`: The notebook containing db queries
 - `library_system.sqlite`: The SQLite database file
 - `library_system.sql`: SQL script for schema creation
-- `queries.sql`: Collection of useful SQL queries
 - `README.md`: Project overview and documentation
 
 > You can explore this project using DB Browser for SQLite or any compatible SQLite GUI.
