@@ -16,7 +16,7 @@ This is an intermediate-level SQL-only project designed to simulate a public lib
 - Top 5 most borrowed books
 - Members with highest fines
 - Most active members
-- Overdue book tracking (via a View)
+- Overdue book tracking 
 - Book popularity ranking (via window function)
 
 ## 📁 Files Included
